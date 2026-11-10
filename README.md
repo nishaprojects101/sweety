@@ -1,5 +1,7 @@
 # 🩸 Sweety – Blood Glucose Tracker
 
+Built by Nisha Rokaya for the Kenpath Junior Full Stack Developer assignment.
+
 A small web app where a diabetes patient records up to 4 blood glucose readings a day
 and views daily, month-to-date and monthly reports.
 
