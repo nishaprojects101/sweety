@@ -2,6 +2,8 @@
 
 Built by Nisha Rokaya for the Kenpath Junior Full Stack Developer assignment.
 
+Demo recording:https://drive.google.com/file/d/1wM_A6Zdp2rFtMFx5GOZ4bGzxNZJRdpcj/view?usp=sharing
+
 A small web app where a diabetes patient records up to 4 blood glucose readings a day
 and views daily, month-to-date and monthly reports.
 
